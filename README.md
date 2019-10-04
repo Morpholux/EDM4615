@@ -1,15 +1,8 @@
 ![Poster](https://dl.dropboxusercontent.com/s/akv0k950foy7il9/rendu_particules.jpg
 "Rendu tiré d’une animation de particules dans TouchDesigner")
 
-<br>
-_ _ _
-
-<br>
-
-EDM4615
-=======
-
-Contenu du cours «Image de synthèse et interactivité : Scénographie et performance»<br>
+Contenu du cours EDM4615<br>
+«Image de synthèse et interactivité : Scénographie et performance»<br>
 UQAM - Université du Québec à Montréal<br>
 Programme de Baccalauréat en médias interactifs<br>
 Session automne 2019
