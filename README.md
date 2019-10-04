@@ -1,3 +1,11 @@
+![Poster](https://dl.dropboxusercontent.com/s/akv0k950foy7il9/rendu_particules.jpg
+"Rendu tiré d’une animation de particules dans TouchDesigner")
+
+<br>
+_ _ _
+
+<br>
+
 EDM4615
 =======
 
@@ -10,15 +18,3 @@ Enseignant : <a href="mailto:renaud.jean-francois@uqam.ca">Jean-François Renaud
 
 <br>
 Repositoire destiné à rendre disponible quelques fichiers .toe (fichiers natifs <i>TouchDesigner</i>) jugés utiles pour le cours.<br>
-
-_ _ _
-
-<br>
-<br>
-
-![Poster](https://dl.dropboxusercontent.com/s/akv0k950foy7il9/rendu_particules.jpg
-"Rendu tiré d’une animation de particules dans TouchDesigner")
-
-<br>
-<br>
-_ _ _
