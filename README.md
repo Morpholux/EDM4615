@@ -6,7 +6,7 @@ Contenu du cours EDM4615<br>
 UQAM - Université du Québec à Montréal<br>
 Programme de Baccalauréat en médias interactifs<br>
 
-Enseignant : <a href="mailto:renaud.jean-francois@uqam.ca">Jean-François Renaud</a> (professeur)
+Matériel rendu disponible par le professeur <a href="mailto:renaud.jean-francois@uqam.ca">Jean-François Renaud</a> (professeur)
 
 <br>
 Repositoire destiné à rendre disponible quelques fichiers .toe (fichiers natifs <i>TouchDesigner</i>) jugés utiles pour le cours.<br>
