@@ -5,7 +5,6 @@ Contenu du cours EDM4615<br>
 «Image de synthèse et interactivité : Scénographie et performance»<br>
 UQAM - Université du Québec à Montréal<br>
 Programme de Baccalauréat en médias interactifs<br>
-Session automne 2019
 
 Enseignant : <a href="mailto:renaud.jean-francois@uqam.ca">Jean-François Renaud</a> (professeur)
 
